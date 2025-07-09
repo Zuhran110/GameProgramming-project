@@ -2,6 +2,16 @@
 
 A Unity-based 2D platformer game featuring dynamic combat, enemy AI, and multiple levels. This project demonstrates various game development concepts including player movement, combat systems, enemy behavior, and level design.
 
+## 📸 Game Screenshots
+
+<div align="center">
+  <img src="screenshots/player_idle.png" alt="Player Idle Animation" width="300"/>
+  <img src="screenshots/player_walk.png" alt="Player Walking Animation" width="300"/>
+  <img src="screenshots/player_attack.png" alt="Player Attack Animation" width="300"/>
+</div>
+
+*Gameplay screenshots showing player idle, walking, and attack animations*
+
 ## 🎯 Game Overview
 
 This is a 2D side-scrolling platformer where players control a character that can move, jump, and attack enemies with fireball projectiles. The game features multiple levels with increasing difficulty, various enemy types, and environmental hazards.
